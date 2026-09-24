@@ -20,9 +20,7 @@ Python → Backend → AI
 I'm focused on turning what I learn into real-world projects and useful software.
 
 ### 📌 Featured Projects
-
-I'm a Python developer...
-
+I'm currently building practical Python, backend, and AI projects. This section will be updated as projects are completed and published.
 ### 📫 Connect With Me
 
 GitHub: [MoradTakeh](https://github.com/MoradTakeh)
