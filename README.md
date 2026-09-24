@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Morad Takeh 👋
 
-<!--
-**MoradTakeh/MoradTakeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | AI & Backend Enthusiast
 
-Here are some ideas to get you started:
+I'm a Python developer focused on building practical projects and continuously improving my skills in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Work With
+
+* 🐍 Python
+* 🌐 Backend Development
+* 🤖 Artificial Intelligence
+* 🔌 APIs & Automation
+* 🗄️ Databases
+* 🐙 Git & GitHub
+
+### 🚀 Currently Learning
+
+Python → Backend → AI
+
+I'm focused on turning what I learn into real-world projects and useful software.
+
+### 📌 Featured Projects
+
+More projects coming soon.
+
+### 📫 Connect With Me
+
+GitHub: [MoradTakeh](https://github.com/MoradTakeh)
