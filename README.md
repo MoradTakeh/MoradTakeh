@@ -21,7 +21,7 @@ I'm focused on turning what I learn into real-world projects and useful software
 
 ### 📌 Featured Projects
 
-More projects coming soon.
+I'm a Python developer...
 
 ### 📫 Connect With Me
 
